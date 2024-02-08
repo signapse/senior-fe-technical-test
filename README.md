@@ -7,6 +7,8 @@ Take a copy/fork of this repo to create a website with React and the Nextjs fram
 
 You can register for an API key for free but if you're not comfortable doing that please contact Signapse to provide you with one. 
 
+This task should take no longer than two hours to complete and if you have any issues or questions please feel free to get in contact.
+
 ## What needs to be completed
 
 - Build a website that displays movie data from a public API using React, Typescript and Nextjs
@@ -20,4 +22,5 @@ If you have additional time for bonus points please add the following:
 - Use Storybook to create components that can be viewed and developed in isolation
 - Document your decisions
 
-This task should take no longer than an hour to complete and if you have any issues or questions please feel free to get in contact.
+## Additional improvements
+We want to keep improving our products if you have any ideas which could improve the user experience then please make them of document what you would do. 
